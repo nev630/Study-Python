@@ -2,7 +2,8 @@
 
 ## 오늘 한 일
 - 변수, 주석, 숫자와 문자열, 조건문, 문자열 입력 공부 완료
-(https://school.programmers.co.kr/learn/courses/2/2-%EB%AC%B4%EB%A3%8C-%ED%8C%8C%EC%9D%B4%EC%8D%AC-%EC%9E%85%EB%AC%B8)
+  
+(school.programmers.co.kr) - 파이썬 입문
 - 일본어 단어 맞히기 퀴즈 프로그램 `day_1.py` 코드를 작성하고 커밋 수행
 
 ## 기술 용어 (IT 일본어)
