@@ -8,13 +8,13 @@ while True:
         data = input("추가할 단어와 뜻을 입력하세요 (예: apple 사과) >> ").split()
         if len(data) == 2:
             word_dict[data[0]] = data[1]
-            print("{data[0]}' 단어가 추가되었습니다.")
+            print(f"'{data[0]}' 단어가 추가되었습니다.")
         else:
             print("형식이 올바르지 않습니다.")
 
     elif (menu == "2"):
         word = input("검색할 단어를 입력하세요: ")
-        print("뜻: {word_dict.get(word, '찾을 수 없는 단어입니다.')}")
+        print(f"뜻: {word_dict.get(word, '찾을 수 없는 단어입니다.')}")
 
     elif (menu == "3"):
         word = input("삭제할 단어를 입력하세요: ")
