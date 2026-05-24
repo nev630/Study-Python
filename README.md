@@ -6,4 +6,4 @@
 
 2026-05-23 [day_2](./day_2/review.md)
 
-2026-05-23 [day_3](./day_3/review.md)
+2026-05-24 [day_3](./day_3/review.md)
